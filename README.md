@@ -4,7 +4,7 @@
 MADT - Management of Analytics and Data Technologies summer 2023
 
 
-## Acknowledgements
+## Menu
 
  - [Unit 1 Designing Customer Data Platform and Building Customer Single View](https://github.com/gaintcp/customer_analytic/tree/main/Unit%201%20Designing%20Customer%20Data%20Platform%20and%20Building%20Customer%20Single%20View)[![None](https://img.shields.io/badge/Concept-Presentation-green.svg)](https://github.com/gaintcp/customer_analytic)
 

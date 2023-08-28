@@ -24,7 +24,9 @@ We start with focus on membership to see percentage between Member and Non membe
 [![Screenshot-2023-08-28-171147.jpg](https://i.postimg.cc/PrY40K3T/Screenshot-2023-08-28-171147.jpg)](https://postimg.cc/JG7Zk3C2)
 
 ## Clustering
+
 We use k = 5
+
 [![Screenshot-2023-08-28-171428.jpg](https://i.postimg.cc/VsjgVDH1/Screenshot-2023-08-28-171428.jpg)](https://postimg.cc/Th3nyq6H)
 
 [![Screenshot-2023-08-28-171624.jpg](https://i.postimg.cc/h4yvcqY0/Screenshot-2023-08-28-171624.jpg)](https://postimg.cc/t76pN8p1)

@@ -1,1 +1,1 @@
-[Screenshot-2023-08-28-160557.png](https://postimg.cc/1n0wpfjM)
+[![Screenshot-2023-08-28-160557.jpg](https://i.postimg.cc/x871Rf23/Screenshot-2023-08-28-160557.jpg)](https://postimg.cc/SY64Qpjn)

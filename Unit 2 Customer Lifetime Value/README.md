@@ -25,9 +25,9 @@
 
 | Metrics | Existing     | New                |
 | :-------- | :------- | :------------ |
-| `Member Tiers ` | `3`  | `9` |
-| `Retention (Year)` | `1` | `1` |
-| `Factors` | ` Rooms,Nights` |  `Hotel Tiers(Based on star),Spent,Room,Nights`|
+| `Member Tiers ` | 3  | 9 |
+| `Retention (Year)` | 1 | 1 |
+| `Factors` |  Rooms,Nights |  Hotel Tiers(Based on star),Spent,Room,Nights|
 
 ## Hotel Tiers are divided based on the Hotel Star Rating
 

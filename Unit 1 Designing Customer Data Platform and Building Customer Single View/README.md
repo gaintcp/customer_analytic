@@ -15,7 +15,7 @@ This is example of dataset
 
 [![Screenshot-2023-08-28-170856.jpg](https://i.postimg.cc/zDR3kQvD/Screenshot-2023-08-28-170856.jpg)](https://postimg.cc/6Tt9WYCF)
 
-## membership
+## Membership
 We start with focus on membership to see percentage between Member and Non member.
 
 [![Screenshot-2023-08-28-170040.jpg](https://i.postimg.cc/sgTY7LHf/Screenshot-2023-08-28-170040.jpg)](https://postimg.cc/sMZGRTRb)

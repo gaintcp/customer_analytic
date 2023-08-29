@@ -6,7 +6,7 @@ This is example of dataset
 
 [![Screenshot-2023-08-28-160557.jpg](https://i.postimg.cc/x871Rf23/Screenshot-2023-08-28-160557.jpg)](https://postimg.cc/SY64Qpjn)
 
-## results
+## Results
 This is a example of result.
 You can see all results in file `Customer Scoring and Churn Scoring.ipynb`.
 

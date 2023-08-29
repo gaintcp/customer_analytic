@@ -46,4 +46,4 @@
 
 ## Customer lifetime value
 
-[![Screenshot-2023-08-29-194113.jpg](https://i.postimg.cc/sgSFLyR2/Screenshot-2023-08-29-194113.jpg)](https://postimg.cc/3kKbysNM)
+[![Screenshot-2023-08-29-194646.jpg](https://i.postimg.cc/t4CZtXZL/Screenshot-2023-08-29-194646.jpg)](https://postimg.cc/ZC25JzLc)

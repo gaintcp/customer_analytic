@@ -23,6 +23,8 @@ This is example of `transaction 3 years`
 
 ## Customer segmentation flag logic
 
+`0` is a customer who does not buy the product
+`1` is the customer who bought the product
 
 [![Screenshot-2023-08-29-185813.jpg](https://i.postimg.cc/PfCG1dc7/Screenshot-2023-08-29-185813.jpg)](https://postimg.cc/8sgnSgTd)
 

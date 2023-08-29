@@ -16,5 +16,5 @@ MADT - Management of Analytics and Data Technologies summer 2023
  - [Unit 4 Customer Segmentation and Segment Movement Analysis](https://github.com/gaintcp/customer_analytic/tree/main/Unit%204%20Customer%20Segmentation%20and%20Segment%20Movement%20Analysis)  [![Dataikku](https://img.shields.io/badge/Dataikku-blue.svg)](https://www.dataiku.com/)[![None](https://img.shields.io/badge/Concept-Presentation-green.svg)](https://github.com/gaintcp/customer_analytic)
 
 
-- [Unit 5 Voice of Customer Analytics](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)  [![Colab](https://img.shields.io/badge/Google%20Colab-yellow.svg)](https://colab.research.google.com/?hl=th)[![None](https://img.shields.io/badge/Concept-Presentation-green.svg)](https://github.com/gaintcp/customer_analytic)
+- [Unit 5 Voice of Customer Analytics]([https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project](https://github.com/gaintcp/customer_analytic/tree/main/Unit%205%20Voice%20of%20Customer%20Analytics))  [![Colab](https://img.shields.io/badge/Google%20Colab-yellow.svg)](https://colab.research.google.com/?hl=th)[![None](https://img.shields.io/badge/Concept-Presentation-green.svg)](https://github.com/gaintcp/customer_analytic)
 
